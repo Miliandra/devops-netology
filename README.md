@@ -1,12 +1,10 @@
-# devops-netology
-#Student Karev Ilya
-#Course DevOps-Engineer from Netology
+<h1>Course DevOps-Engineer from Netology</h1>
+<h2>Student Karev Ilya</h2>
 
-.gitignore from terraform
-Ignored file: Local dir
-terraform All
-tfstate file
-Crash
-Log File
-Override files
-CLI config files
+<ul>Ignored file .gitignore terraform:
+<li>Local dir terraform</li>
+<li>All tfstate file</li>
+<li>Crash Log File</li>
+<li>Override files</li>
+<li>CLI config files</li>
+<ul/>
