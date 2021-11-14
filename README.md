@@ -33,4 +33,11 @@
 * 5af1e6234 main: Honor explicit provider_installation CLI config when present\
 * 8c928e835 main: Consult local directories as potential mirrors of providers
 6. Функция `globalPluginDirs` была изменена в следующих коммитах:
-
+* 78b122055
+* 52dbf9483
+* 41ab0aef7
+* 66ebff90c
+* 8364383c3\
+Комманда для поиска: `git log -L :'func globalPluginDirs':plugins.go --oneline`
+7. Автор функции `synchronizedWriters` - Martin Atkins\
+Команда для поиска: `git log -S'func synchronizedWriters' --pretty=format:'%h - %aN - %as - %ar'`
