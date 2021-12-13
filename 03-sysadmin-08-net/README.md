@@ -217,5 +217,5 @@ State           Recv-Q          Send-Q                          Local Address:Po
 UNCONN          0               0                               127.0.0.53%lo:domain                        0.0.0.0:*					  # DNS
 UNCONN          0               0                        192.168.184.128%eth0:bootpc                        0.0.0.0:*					  # DHCP
 ```
-5. L3 диаграмма моей домашней сети:
+5. L3 диаграмма моей домашней сети:\
 ![img](Images/img.png)
