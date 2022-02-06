@@ -12,7 +12,7 @@
 ![img](Images/Docker_Swarm_Cluster.png)
 3. Создали наш первый, готовый к боевой эксплуатации кластер мониторинга, состоящий из стека микросервисов:
 ![img](Images/Deploy_microservices.png)
-4.Выполнили на лидере Docker Swarm кластера команду `docker swarm update --autolock=true`:
+4. Выполнили на лидере Docker Swarm кластера команду `docker swarm update --autolock=true`:
 ```
 [root@node01 ~]# docker swarm update --autolock=true
 Swarm updated.
