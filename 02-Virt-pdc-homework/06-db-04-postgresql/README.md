@@ -157,6 +157,7 @@ Create table orders (
 Partition by range(price);
 ```
 И конечно же не забыть, создать `orders_1` и `orders_2` с нужным для нас диапазоном для столбца `price`.
+
 4. Создали бэкап БД:
 ```bash
 pg_dump -h 192.168.1.113 -U postgres -W -f /var/lib/postgresql/backup/backup_bd.dump test_database -v
