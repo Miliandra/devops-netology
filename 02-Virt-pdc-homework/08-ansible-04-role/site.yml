@@ -1,0 +1,14 @@
+- hosts: clickhouse
+  become: true
+  roles:
+    - clickhouse
+
+- hosts: lighthouse
+  become: true
+  roles:
+    - lighthouse
+
+- hosts: vector
+  become: true
+  roles:
+    - vector

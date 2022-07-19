@@ -1,0 +1,16 @@
+---
+- src: git@github.com:Miliandra/clickhouse-role.git
+  scm: git
+  version: "main"
+  name: clickhouse
+
+- src: git@github.com:Miliandra/lighthouse-role.git
+  scm: git
+  version: "main"
+  name: lighthouse
+
+- src: git@github.com:Miliandra/vector-role.git
+  scm: git
+  version: "main"
+  name: vector
+  
