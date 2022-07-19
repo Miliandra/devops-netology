@@ -71,7 +71,7 @@ go version go1.17.10 linux/amd64
                 minimal = y
             }
         }
-        fmt.Println("Minimal number is: ", minimal")
+        fmt.Println("Minimal number is: ", minimal)
     }
     ```
     ```
