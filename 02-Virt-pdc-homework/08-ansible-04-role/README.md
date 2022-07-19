@@ -2,7 +2,7 @@
 
 1. Репозиторий с ролью от Clickhouse [Ссылка на репозиторий](https://github.com/Miliandra/clickhouse-role)
 2. Репозиторий с ролью от Lighthouse [Ссылка на репозиторий](https://github.com/Miliandra/lighthouse-role)
-3. Репозиторий с ролью от Vector [Ссылка](https://github.com/Miliandra/vector-role)
+3. Репозиторий с ролью от Vector [Ссылка на репозиторий](https://github.com/Miliandra/vector-role)
 
 Playbook состоит из запуска только ролей.\
 Все переменные, которые можно изменить описаны непосредственно в ролях.\
